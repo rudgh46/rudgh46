@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Eunho's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
 
 <p align='center'> 💪 "Be growing up as a Developer" 👍 </p>
-
+<p align='center'>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)
+</p>
 
 ---
 
@@ -13,7 +14,7 @@
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
   </a>
   <a href="https://rudgh46.tistory.com/">
-    [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={rudgh46}&theme={default})](https://github.com/loosie/github-readme-tistory-card)
+    [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=rudgh46&theme=default)](https://github.com/loosie/github-readme-tistory-card)
   </a>
   </a>
   <a href="https://stackoverflow.com/users/18604002/xilver-h0ya">
@@ -67,6 +68,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudgh46%2F&count_bg=%2379C83D&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)]
 
-![Xilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilverh0ya&&show_icons=true&theme=radical)
+![rudgh46's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudgh46&&show_icons=true&theme=radical)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
