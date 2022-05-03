@@ -1,10 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=Eunho's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20CV/NLP&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=경호's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20BackEnd&descAlignY=51&descAlign=62)
 
 <p align='center'> 💪 "Be growing up as a Developer" 👍 </p>
-<p align='center'>
+
+<div align=center>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)
-</p>
+
+</div>
 
 ---
 
@@ -13,14 +16,18 @@
   <a href="https://rudgh46.github.io/">
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
   </a>
-  <a href="https://rudgh46.tistory.com/">
-    [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=rudgh46&theme=default)](https://github.com/loosie/github-readme-tistory-card)
-  </a>
-  </a>
-  <a href="https://stackoverflow.com/users/18604002/xilver-h0ya">
-    <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=Stack Overflow&logoColor=white"/>
-  </a>
 </p>
+</p>
+
+<div align=center>
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC3rbQ_9VfPQngSEKdL8ki0g)](https://www.youtube.com/channel/UC3rbQ_9VfPQngSEKdL8ki0g)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:rudgh46@gmail.com)
+<br>
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=rudgh46%20Tistory%20%20&theme=defalut)](https://rudgh46.tistory.com/)
+
+<div>
 
 ---
 
