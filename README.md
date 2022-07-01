@@ -4,8 +4,7 @@
 
 <div align=center>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudgh46)](https://solved.ac/rudgh46/)
 
 </div>
 
