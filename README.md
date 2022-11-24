@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=경호's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20BackEnd&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=경호's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20Backend&descAlignY=51&descAlign=62)
 
 <p align='center'> 💪 "Be growing up as a Developer" 👍 </p>
 
