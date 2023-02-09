@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8B00FF&height=300&section=header&text=경호's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=The%20target%20Domain%20:%20Backend&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=경호's%20Github&fontSize=90&animation=twinkling&fontAlignY=38&desc=The%20target%20Domain%20:%20Backend&descAlignY=51&descAlign=62)
 
 <p align='center'> 💪 "Slow but steady wins the race" 👍 </p>
 
@@ -71,10 +71,10 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudgh46%2F&count_bg=%2379C83D&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)
 
-![rudgh46's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudgh46&&show_icons=true&theme=radical)
+![rudgh46's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudgh46&show_icons=true&theme=nord&count_private=true&include_all_commits=true)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
   
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient)
 
 </div>
