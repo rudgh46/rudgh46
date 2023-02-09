@@ -75,4 +75,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=8B00FF)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 </div>
