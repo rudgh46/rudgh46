@@ -15,7 +15,7 @@
   <a href="https://rudgh46.github.io/">
     <img src="https://img.shields.io/badge/DevBlog-222222?logo=Blogger&logoColor=white"/>
   </a>
-  <a href="https://marmalade-grin-120.notion.site/Junior-Backend-Developer-2a5aae463eb6442f83d6fa82f703adb5">
+  <a href="https://rudgh46.notion.site/Junior-Backend-Developer-2a5aae463eb6442f83d6fa82f703adb5">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=Notion&logoColor=white"/>
   </a> <br>
   <a href="https://www.youtube.com/channel/UC3rbQ_9VfPQngSEKdL8ki0g">
